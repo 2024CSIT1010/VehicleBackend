@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\vehicleservicesystmapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:vehicleservicesystmapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\genericmodelbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:genericmodelbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\genericmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:genericmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\models\\billofmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:models\\billofmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\models\\primeautomobilesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:models\\primeautomobilesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|c:\\users\\deepa\\downloads\\backend\\backened\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805707-3031-49FF-8CB7-FDC4D87CC7C3}|vehicleservicesystmapi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vehicleservicesystmapi.http",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\vehicleservicesystmapi.http",
+              "RelativeDocumentMoniker": "vehicleservicesystmapi.http",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\vehicleservicesystmapi.http",
+              "RelativeToolTip": "vehicleservicesystmapi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-28T02:40:03.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:40:01.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "genericmodelbinderprovider.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\genericmodelbinderprovider.cs",
+              "RelativeDocumentMoniker": "genericmodelbinderprovider.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\genericmodelbinderprovider.cs",
+              "RelativeToolTip": "genericmodelbinderprovider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:39:59.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customerController.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Controllers\\customerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\customerController.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Controllers\\customerController.cs",
+              "RelativeToolTip": "Controllers\\customerController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:26:13.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "genericmodelbinder.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\genericmodelbinder.cs",
+              "RelativeDocumentMoniker": "genericmodelbinder.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\genericmodelbinder.cs",
+              "RelativeToolTip": "genericmodelbinder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:39:57.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T02:39:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T02:39:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillOfMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Models\\BillOfMaterial.cs",
+              "RelativeDocumentMoniker": "Models\\BillOfMaterial.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Models\\BillOfMaterial.cs",
+              "RelativeToolTip": "Models\\BillOfMaterial.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:30:20.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrimeAutomobilesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Models\\PrimeAutomobilesDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\PrimeAutomobilesDbContext.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Models\\PrimeAutomobilesDbContext.cs",
+              "RelativeToolTip": "Models\\PrimeAutomobilesDbContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:28:15.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "usercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Controllers\\usercontroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\usercontroller.cs",
+              "ToolTip": "C:\\Users\\deepa\\Downloads\\BACKEND\\Backened\\Controllers\\usercontroller.cs",
+              "RelativeToolTip": "Controllers\\usercontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T09:30:04.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
